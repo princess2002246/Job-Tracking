@@ -1,0 +1,22 @@
+{
+  "users": [],
+  "jobs": [
+    {
+      "companyName": "Capitec",
+      "role": "IT",
+      "status": "Applied",
+      "dateApplied": "2026-08-01",
+      "jobDuties": "Day to day IT queries",
+      "id": "6-ANc1xKpVs"
+    },
+    {
+      "companyName": "Nedbank",
+      "role": "Accountant",
+      "status": "Interviewed",
+      "dateApplied": "2026-10-01",
+      "jobDuties": "Responsible for the banks ledger books.",
+      "id": "NVQbG8ODEf8"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
